@@ -9,6 +9,16 @@
     <string name="pref_notice_summ2">Notify user via Notification</string>
     <string name="pref_notice_title2">Notify via Notification</string>
     <string name="sett_title">General Settings</string>
+    <string name="activity_settings_name">SettingsName</string>
+    <string name="actMain_Toolbar_Title">Toolbar Title</string>
+
+    <string name="dialog_about_title">AbouT</string>
+    <string name="dialog_about_message">App za ispit</string>
+    <string name="dialog_about_yes">OK</string>
+    <string name="dialog_about_no">Cancel</string>
+
+
+
 
 
 </resources>

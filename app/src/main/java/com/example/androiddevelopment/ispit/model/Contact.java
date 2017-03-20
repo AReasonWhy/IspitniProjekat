@@ -6,6 +6,7 @@ package com.example.androiddevelopment.ispit.model;
 
 public class Contact {
 
+    private int id;
     String name;
     String sName;
     String image;
@@ -16,12 +17,21 @@ public class Contact {
 
     };
 
-    public Contact(String name, String sName, String image, String address, String telN) {
+    public Contact(int id, String name, String sName, String image, String address, String telN) {
+        this.id = id;
         this.name = name;
         this.sName = sName;
         this.image = image;
         this.address = address;
         TelN = telN;
+    }
+
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
     }
 
     public String getName() {

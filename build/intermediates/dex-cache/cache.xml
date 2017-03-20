@@ -3,69 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a84aadd8a8b453e85da3e6bdeba88bc99b9fd208/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ff512624f075a960281266ea2b2e0c629a2451ce/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fcb7db9da8c36e8d957c6251a4edd643ca9bc516/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
-        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_15b45f1a4492c5a39b7c125a389ecfc01e4e15a8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_572ccfd2b9e6babebb3946a57f0c7dcdb07a4f32/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
-        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_49eda4a23f318b7006898a47739ab2ab6c27fe4a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_77d992d1577722f2d893a138157bd8a1f244bf9f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/androiddevelopment/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
         jumboMode="true"
         optimize="true"
@@ -88,8 +25,26 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="fe419f6adcf21a9f34b62c4df99a903b52a0259d">
+        sha1="e0cab9331711e5a1156a2234fe0203c5542c8057">
         <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bfed44cbd27e35b373d4725948bc54fe84ca2e0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a84aadd8a8b453e85da3e6bdeba88bc99b9fd208/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ff512624f075a960281266ea2b2e0c629a2451ce/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -120,12 +75,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fcb7db9da8c36e8d957c6251a4edd643ca9bc516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_15b45f1a4492c5a39b7c125a389ecfc01e4e15a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
         <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_fc41ae8ad88a0117ea4393adbbb91b1f34fac62f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_572ccfd2b9e6babebb3946a57f0c7dcdb07a4f32/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -144,6 +126,15 @@
         revision="24.0.2"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
         <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_766eaf2bc1382d92d3347b97fb5e2b0b9278912b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/4.48/e579bd2905d0399af5029aaaf9817d5fa0ca88a5/ormlite-core-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-core-4.48_61483365f9fee6e2bbf091fa9b654c72daa8fef7/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -171,6 +162,33 @@
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
         <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_5733ba75fad54f9bdf35c0ecdff84ea7df0c710a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/4.48/afa06f539a4026c10b247386312aa67404b80a16/ormlite-android-4.48.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-android-4.48_ebb448342cf679076a624eab574c2419a03ecf63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_49eda4a23f318b7006898a47739ab2ab6c27fe4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/androiddevelopment/AndroidStudioProjects/Ispit/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_77d992d1577722f2d893a138157bd8a1f244bf9f/classes.dex" />
     </item>
 
 </items>
