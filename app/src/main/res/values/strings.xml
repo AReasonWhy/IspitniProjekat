@@ -16,9 +16,14 @@
     <string name="dialog_about_message">App za ispit</string>
     <string name="dialog_about_yes">OK</string>
     <string name="dialog_about_no">Cancel</string>
-
-
-
+    <string name="drawer_about">DrawerAbout</string>
+    <string name="drawer_settings">DrawerSettings</string>
+    <string name="drawer_home">DrawerHome</string>
+    <string name="drawer_home_long">Show all</string>
+    <string name="drawer_Settings_long">Change the Settings</string>
+    <string name="drawer_about_long">About us</string>
+    <string name="drawer_open">Open Nav Drawer</string>
+    <string name="drawer_close">Close Drawer</string>
 
 
 </resources>

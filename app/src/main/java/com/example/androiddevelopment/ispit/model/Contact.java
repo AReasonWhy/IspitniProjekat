@@ -11,7 +11,7 @@ public class Contact {
     String sName;
     String image;
     String address;
-    String TelN;
+    String telN;
 
     public Contact(){
 
@@ -23,7 +23,7 @@ public class Contact {
         this.sName = sName;
         this.image = image;
         this.address = address;
-        TelN = telN;
+        this.telN = telN;
     }
 
     public int getId() {
@@ -67,10 +67,10 @@ public class Contact {
     }
 
     public String getTelN() {
-        return TelN;
+        return telN;
     }
 
     public void setTelN(String telN) {
-        TelN = telN;
+        telN = telN;
     }
 }
